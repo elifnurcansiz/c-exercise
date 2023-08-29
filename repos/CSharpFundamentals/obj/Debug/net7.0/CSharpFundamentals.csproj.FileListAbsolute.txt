@@ -1,0 +1,14 @@
+C:\Users\elifn\source\repos\CSharpFundamentals\bin\Debug\net7.0\CSharpFundamentals.exe
+C:\Users\elifn\source\repos\CSharpFundamentals\bin\Debug\net7.0\CSharpFundamentals.deps.json
+C:\Users\elifn\source\repos\CSharpFundamentals\bin\Debug\net7.0\CSharpFundamentals.runtimeconfig.json
+C:\Users\elifn\source\repos\CSharpFundamentals\bin\Debug\net7.0\CSharpFundamentals.dll
+C:\Users\elifn\source\repos\CSharpFundamentals\bin\Debug\net7.0\CSharpFundamentals.pdb
+C:\Users\elifn\source\repos\CSharpFundamentals\obj\Debug\net7.0\CSharpFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifn\source\repos\CSharpFundamentals\obj\Debug\net7.0\CSharpFundamentals.AssemblyInfoInputs.cache
+C:\Users\elifn\source\repos\CSharpFundamentals\obj\Debug\net7.0\CSharpFundamentals.AssemblyInfo.cs
+C:\Users\elifn\source\repos\CSharpFundamentals\obj\Debug\net7.0\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\elifn\source\repos\CSharpFundamentals\obj\Debug\net7.0\CSharpFundamentals.dll
+C:\Users\elifn\source\repos\CSharpFundamentals\obj\Debug\net7.0\refint\CSharpFundamentals.dll
+C:\Users\elifn\source\repos\CSharpFundamentals\obj\Debug\net7.0\CSharpFundamentals.pdb
+C:\Users\elifn\source\repos\CSharpFundamentals\obj\Debug\net7.0\CSharpFundamentals.genruntimeconfig.cache
+C:\Users\elifn\source\repos\CSharpFundamentals\obj\Debug\net7.0\ref\CSharpFundamentals.dll

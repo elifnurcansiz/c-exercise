@@ -1,0 +1,4 @@
+C:\Users\elifn\source\repos\Extensibility.cs\obj\Debug\net7.0\Extensibility.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifn\source\repos\Extensibility.cs\obj\Debug\net7.0\Extensibility.cs.AssemblyInfoInputs.cache
+C:\Users\elifn\source\repos\Extensibility.cs\obj\Debug\net7.0\Extensibility.cs.AssemblyInfo.cs
+C:\Users\elifn\source\repos\Extensibility.cs\obj\Debug\net7.0\Extensibility.cs.csproj.CoreCompileInputs.cache

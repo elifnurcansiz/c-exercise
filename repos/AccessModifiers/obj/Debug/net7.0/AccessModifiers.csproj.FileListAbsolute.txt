@@ -1,0 +1,14 @@
+C:\Users\elifn\source\repos\AccessModifiers\bin\Debug\net7.0\AccessModifiers.exe
+C:\Users\elifn\source\repos\AccessModifiers\bin\Debug\net7.0\AccessModifiers.deps.json
+C:\Users\elifn\source\repos\AccessModifiers\bin\Debug\net7.0\AccessModifiers.runtimeconfig.json
+C:\Users\elifn\source\repos\AccessModifiers\bin\Debug\net7.0\AccessModifiers.dll
+C:\Users\elifn\source\repos\AccessModifiers\bin\Debug\net7.0\AccessModifiers.pdb
+C:\Users\elifn\source\repos\AccessModifiers\obj\Debug\net7.0\AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifn\source\repos\AccessModifiers\obj\Debug\net7.0\AccessModifiers.AssemblyInfoInputs.cache
+C:\Users\elifn\source\repos\AccessModifiers\obj\Debug\net7.0\AccessModifiers.AssemblyInfo.cs
+C:\Users\elifn\source\repos\AccessModifiers\obj\Debug\net7.0\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\elifn\source\repos\AccessModifiers\obj\Debug\net7.0\AccessModifiers.dll
+C:\Users\elifn\source\repos\AccessModifiers\obj\Debug\net7.0\refint\AccessModifiers.dll
+C:\Users\elifn\source\repos\AccessModifiers\obj\Debug\net7.0\AccessModifiers.pdb
+C:\Users\elifn\source\repos\AccessModifiers\obj\Debug\net7.0\AccessModifiers.genruntimeconfig.cache
+C:\Users\elifn\source\repos\AccessModifiers\obj\Debug\net7.0\ref\AccessModifiers.dll

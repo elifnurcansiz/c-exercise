@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Testability.UniTests
+[TestClass]
+public class OrderProcessorTesta
+//METHODNAME_CONDINATION_EXPECTION
+[TestMethod]
+{  public void Process_OrderIsAlreadyShipped_ThrowsAnException()
+   
+    {var orderProcesor=new OrderProıcesor();
+    }
+}
+public class FakeShippingCalculator :IaShippingCalculator

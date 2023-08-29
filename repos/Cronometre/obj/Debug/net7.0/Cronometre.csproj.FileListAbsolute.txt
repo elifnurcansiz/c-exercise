@@ -1,0 +1,4 @@
+C:\Users\elifn\source\repos\Cronometre\obj\Debug\net7.0\Cronometre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifn\source\repos\Cronometre\obj\Debug\net7.0\Cronometre.AssemblyInfoInputs.cache
+C:\Users\elifn\source\repos\Cronometre\obj\Debug\net7.0\Cronometre.AssemblyInfo.cs
+C:\Users\elifn\source\repos\Cronometre\obj\Debug\net7.0\Cronometre.csproj.CoreCompileInputs.cache

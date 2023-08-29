@@ -1,0 +1,4 @@
+C:\Users\elifn\source\repos\Testability\obj\Debug\net7.0\Testability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifn\source\repos\Testability\obj\Debug\net7.0\Testability.AssemblyInfoInputs.cache
+C:\Users\elifn\source\repos\Testability\obj\Debug\net7.0\Testability.AssemblyInfo.cs
+C:\Users\elifn\source\repos\Testability\obj\Debug\net7.0\Testability.csproj.CoreCompileInputs.cache
